@@ -1,0 +1,7 @@
+V	211001195053Z		01	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_Dobrovoljski/CN=korisnik1
+
+V	211001195853Z           02	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_Dobrovoljski/CN=korisnik2/emailAddress=korisnik@gmail.com
+
+V	200520200231Z		03	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_Dobrovoljski/CN=korisnik3/emailAddress=korisnik3@hotmail.com
+
+R	211001200432Z	200519200754Z,keyCompromise	04	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_Dobrovoljski/CN=korisnik4
